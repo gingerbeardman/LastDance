@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct FileSharingToggleApp: App {
+struct LastDanceApp: App {
 	@NSApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
 	
 	var body: some Scene {
