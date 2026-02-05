@@ -1,8 +1,8 @@
 # Last Dance
 
-A quick app to turn Samba File Sharing off on login and shutdown, or manually, to workaround a [long-standing macOS bug](https://mjtsai.com/blog/2022/12/30/fixing-smb-file-sharing-in-ventura/). Why _Last Dance_? Because Samba.
+A quick app to turn Samba File Sharing off on login and shutdown, or manually, to workaround a [long-standing macOS bug](https://mjtsai.com/blog/2022/12/30/fixing-smb-file-sharing-in-ventura/). For macOS 11 and newer.
 
-For macOS 11 and newer.
+Why _Last Dance_? Because Samba.
 
 ## Screenshot
 
